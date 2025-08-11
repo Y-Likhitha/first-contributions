@@ -1581,5 +1581,6 @@ Eoin O'B
 - [Jenkkss]
 - [Hariharasudhan M](https://github.com/Harimhs)
 - [Kori Kosmos](https://github.com/KoriKosmos).
+- [Likhitha](https://github.com/Y-Likhitha)
 ElkaFi - first contribution practice
 jack - first contribution practice
